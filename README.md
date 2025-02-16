@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying Computer Science
+- 👯 I’m looking to collaborate on useful and meaningful projects
+- 🤔 I’m looking forward to new opportunities and growing
